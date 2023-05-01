@@ -32,5 +32,4 @@ Loop 4
 }
 
 login_toon()
-logout_toon()
 kill_orumo()
